@@ -1,0 +1,28 @@
+.d1 {
+    position: static;
+    border: 3px solid green;
+    left: 30px;/*Não influencia no static*/
+}
+
+.d2 {
+    position: relative;
+    left: 30px;
+    border: 3px solid green;
+}
+
+.d3 {
+    position: fixed;
+    border: 3px solid green;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}
+
+.d4 {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid green;
+}
