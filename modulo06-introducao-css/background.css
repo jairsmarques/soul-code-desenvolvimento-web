@@ -1,0 +1,7 @@
+body {
+    /*background-color: indianred;*/
+    /*background-color: khaki;*/
+    /*background-image: url('img.jpg'); -> ADICIONA IMAGEM COM FUNDO*/
+    /*background-repeat: no-repeat; -> NÂO REPETE A IMAGEM*/
+    background-position: right top;/*ALINHAMENTO*/
+}
