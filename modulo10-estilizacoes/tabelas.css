@@ -1,0 +1,30 @@
+/* Estilização 01 
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th {
+    height: 50px;
+}
+*/
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+}
+
+tr:hover {
+    background-color: cadetblue;
+}
